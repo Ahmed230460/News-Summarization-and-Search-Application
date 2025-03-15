@@ -62,3 +62,27 @@ Menu Options:
 4️ Clear Search History – Remove all saved searches.
 
 5️ Exit – Quit the application.
+
+
+Select an option: 1  
+
+Enter a topic: AI  
+
+Fetching news...  
+
+🔹 Article 1: Google AI Breakthrough  
+
+Brief Summary: Google introduces a new AI system improving automation.  
+
+Detailed Summary: The article discusses...  
+
+🔹 Article 2: OpenAI's GPT-5 Preview  
+
+Brief Summary: OpenAI announces upcoming AI model with enhanced capabilities.  
+
+Detailed Summary: The article highlights...  
+
+Do you want to add this topic to favorites? (yes/no): yes  
+
+Topic added to favorites.  
+
