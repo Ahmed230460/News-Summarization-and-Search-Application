@@ -25,5 +25,7 @@ Clear search history when needed.
 Python 3.8+
 
 API keys for:
+
 NewsAPI
+
 Groq API
