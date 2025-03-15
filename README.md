@@ -29,3 +29,36 @@ API keys for:
 NewsAPI
 
 Groq API
+
+
+# Installation
+Clone this repository:
+
+git clone https://github.com/Ahmed230460/News-Summarization-and-Search-Application.git
+
+# Install Dependencies
+
+Ensure you have Python 3.8+ installed, then run:
+
+pip install -r requirements.txt
+
+# Set Up API Keys
+
+Register for a News API key from NewsAPI.
+
+Get an AI summarization API key from Groq or any preferred service.
+
+
+# Example Usage
+
+Menu Options:
+
+1️ Search for News – Enter a topic and retrieve news articles with summaries.
+
+2️ View Search History – Check previous topics with saved summaries.
+
+3️ View Favorite Topics – See all favorited topics.
+
+4️ Clear Search History – Remove all saved searches.
+
+5️ Exit – Quit the application.
