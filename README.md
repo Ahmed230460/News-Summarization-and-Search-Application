@@ -3,8 +3,8 @@
 This Python-based command-line application allows users to search for news articles on specific topics, generate brief and detailed summaries, save search history, and manage favorite topics.
 
 # Team Members
+Ahmed Mohamed Dawood  ID/21100820    
 
-Ahmed Mohamed Dawood  ID/21100820
 Amr Khaled Gaber    ID/21100834
 
 
