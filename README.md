@@ -19,16 +19,18 @@ Amr Khaled Gaber    ID/21100834
 
 
 # Features
-Search for news articles using the NewsAPI.
 
-Generate brief and detailed summaries using Groq API embeddings.
+Semantic Search: Uses vector embeddings instead of keyword search
 
-Store search history (last 10 searches).
-
-Save and manage favorite topics.
-
-Clear search history when needed.
-
+ Multi-Level Summarization: Brief (1-2 sentences) & Detailed (paragraph)
+ 
+ AI-Powered Summarization: Uses Groq API (Llama 3) via LangChain
+ 
+ User Preference Management: Saves favorite topics & search history
+ 
+ Efficient Vector Storage: Uses ChromaDB for fast retrieval
+ 
+ Command-Line Interface: Simple and easy to use
 
 # Prerequisites
 
