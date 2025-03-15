@@ -20,3 +20,10 @@ Save and manage favorite topics.
 Clear search history when needed.
 
 
+# Prerequisites
+
+Python 3.8+
+
+API keys for:
+NewsAPI
+Groq API
