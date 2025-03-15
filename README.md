@@ -1,6 +1,12 @@
 # News-Summarization-and-Search-Application
 
-This Python-based command-line application allows users to search for news articles on specific topics, generate brief and detailed summaries, save search history, and manage favorite topics.
+This Python-based command-line application allows users to:
+
+ Search for news articles on specific topics using NewsAPI
+ Generate brief & detailed summaries using LangChain + Groq API
+ Perform semantic search using vector embeddings (ChromaDB)
+ Save search history (last 10 searches)
+ Manage favorite topics
 
 # Team Members
 Ahmed Mohamed Dawood  ID/21100820    
