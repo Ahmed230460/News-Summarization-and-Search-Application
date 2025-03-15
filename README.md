@@ -36,11 +36,14 @@ Semantic Search: Uses vector embeddings instead of keyword search
 
 Python 3.8+
 
-API keys for:
+LangChain (for embeddings & summarization)
 
-NewsAPI
+Groq API (for AI-based summarization)
 
-Groq API
+NewsAPI (for news retrieval)
+
+ChromaDB (for vector storage)
+
 
 
 # Installation
