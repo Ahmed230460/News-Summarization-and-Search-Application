@@ -3,9 +3,13 @@
 This Python-based command-line application allows users to:
 
  Search for news articles on specific topics using NewsAPI
+ 
  Generate brief & detailed summaries using LangChain + Groq API
+ 
  Perform semantic search using vector embeddings (ChromaDB)
+ 
  Save search history (last 10 searches)
+ 
  Manage favorite topics
 
 # Team Members
