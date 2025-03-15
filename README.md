@@ -10,9 +10,13 @@ Amr Khaled Gaber    ID/21100834
 
 # Features
 Search for news articles using the NewsAPI.
+
 Generate brief and detailed summaries using Groq API embeddings.
+
 Store search history (last 10 searches).
+
 Save and manage favorite topics.
+
 Clear search history when needed.
 
 
